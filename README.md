@@ -3,13 +3,25 @@
 # Reg no: 212225230179
 # Date : 27-07-2026
 
-**Aim**
+# Aim:
+
+
+
 To Design a Basic Mobile and Web Layout for an Existing Case Study
 
-**Algorithm**
+# Algorithm:
+
+
+
+
 Apply Gestalt principles to enhance mobile and web layout design. Incorporate UI elements and design patterns into the layouts. Develop interaction behaviors and usability principles for the designs. Create a brand logo using Canva, following styling and branding guidelines and include it with your layouts.
 
-**Output**
+# Output:
+
+
+
+
+
 Designing a Basic Mobile and Web Layout for Swiggy – Case Study
 
 1:Applying Gestalt Principles to Enhance Design:
@@ -44,7 +56,9 @@ The Swiggy logo was recreated using Canva by following modern branding guideline
 
 
 
-**Result**
+# Result:
+
+
 Thus, a basic mobile and web layout for Swiggy was successfully designed by applying Gestalt principles, incorporating essential UI elements and design patterns, and implementing effective interaction behaviors. A brand logo was created using Canva and integrated into both layouts to ensure visual consistency. The final design achieved improved usability, clear navigation, and a user-friendly interface across both mobile and web platforms.
 
 
